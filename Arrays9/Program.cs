@@ -11,6 +11,7 @@ La consolă se va afișa:
 1 x 2 buc
  */
 
+
 using System;
 
 namespace Arrays9
